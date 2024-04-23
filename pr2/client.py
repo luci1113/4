@@ -1,4 +1,4 @@
-import Pyro4
+import Pyro4 #Python remote object use establish the remote connection
 
 def main():
     uri = input("Enter the URI of the server: ")
@@ -12,3 +12,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+'''Diiference in RPC(Remote Procedure Call) and RMI(Remote Method Invocation) RPC supports procedural programming.	RMI supports object-oriented programming.
+RPC is the older version of RMI.	While it is the successor version of RPC.'''
