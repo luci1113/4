@@ -1,0 +1,21 @@
+CI Chapter(417530)
+
+Unit I Introduction To Computational Intelligence
+Unit II Fuzzy Logic
+Unit III Evolutionary Computing
+Unit IV Genetic Algorithm
+Unit V Computational Intelligence and NLP
+Unit VI Artificial Immune Systems
+
+
+DC Chapter(417531)
+Unit I Introduction to Distributed Computing 
+Unit II Distributed Data Management and Storage 
+Unit III Distributed Computing Algorithms
+Unit IV Distributed Machine Learning and AI
+Unit V Big Data Processing in Distributed Systems
+Unit VI Distributed Systems Security and Privacy
+
+
+what is CI:- refers to the ability of a computer to learn a specific task from data or experimental observation.
+what is DC:_ Distributed computing is a field of computer science that studies distributed systems, defined as computer systems whose inter-communicating components are located on different networked computers
